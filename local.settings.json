@@ -1,0 +1,25 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "WEBSITE_RUN_FROM_PACKAGE": "0",
+    "REMOTEDEBUGGINGVERSION": "16.0.28729.10",
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "eae26db5-14a5-4f34-b9ca-1b777ef4ed63",
+    "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=mfstor;AccountKey=d4uYF6Q4gtAtBKh4P/YoQbJeZqS+V1e6buhPtFnDQ8L3ATjA4m80gkS8P/fJSka/46ZEeU5RkWWTDiskR8M9cg==;EndpointSuffix=core.windows.net",
+    "WEBSITE_NODE_DEFAULT_VERSION": "20.0.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=mffuncafee;AccountKey=thXpJrU7QPmbnijVQ1qpYvXOSP8idzvDJe7TdsRusbE+ffiWgt1S7MeLdYRN4Dh/9VTaHNlXTGmrjGMgEmASWQ==",
+    "WEBSITE_CONTENTSHARE": "mffuncafee",
+    "NODE_ENV": "production",
+    "AzureWebJobs.FTP.Disabled": "true",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=mffuncafee;sAccountKey=thXpJrU7QPmbnijVQ1qpYvXOSP8idzvDJe7TdsRusbE+ffiWgt1S7MeLdYRN4Dh/9VTaHNlXTGmrjGMgEmASWQ==",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WEBSITE_SITE_NAME": "mffunc",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "mf-iot_events_IOTHUB": "Endpoint=sb://iothub-ns-mf-iot-1198538-b726ec55db.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=/AYqPd0oKc7JVafwSjPxgXnLajQmQq33G8Eg9glQzEI=;EntityPath=mf-iot"
+  }
+}
